@@ -1,0 +1,9 @@
+.ul-users{
+   background-color: blue;
+   backdrop-filter: blur(50px);
+   opacity: 70%;
+}
+.li-users{
+    color: white;
+    text-align: left;
+}
